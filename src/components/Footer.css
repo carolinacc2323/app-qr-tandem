@@ -1,0 +1,27 @@
+.footer{
+    background-color: black;
+    
+}
+.logotipos{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+}
+.logoblanco{
+    width: 100px;
+}
+.logo{
+    width: 30px;
+    
+}
+.RRSS{
+    margin-left: 60px;
+}
+.enlaces a{
+    color: rgb(233, 233, 233);
+    text-decoration: none;
+    font-size: 14px;
+    margin: 0.5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:normal;
+}

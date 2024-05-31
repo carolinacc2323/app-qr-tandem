@@ -1,0 +1,13 @@
+.header{
+    background-color: rgb(218, 214, 214);
+    align-items: center;
+    display: flex;
+}
+
+.logoblack img{
+    width: 200px;
+}
+.menu img{
+    width: 50px;
+    margin-left: 90px;
+}
