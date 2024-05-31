@@ -1,6 +1,6 @@
 .footer{
     background-color: black;
-    
+    padding-bottom: 0.5em;
 }
 .logotipos{
     display: grid;
